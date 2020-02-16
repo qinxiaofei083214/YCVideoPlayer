@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YCVideoPlayer.iml" filepath="$PROJECT_DIR$/YCVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YCVideoPlayerLib/YCVideoPlayer-YCVideoPlayerLib.iml" filepath="$PROJECT_DIR$/YCVideoPlayerLib/YCVideoPlayer-YCVideoPlayerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/YCVideoPlayer-app.iml" filepath="$PROJECT_DIR$/app/YCVideoPlayer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YCVideoPlayerLib/YCVideoPlayerLib.iml" filepath="$PROJECT_DIR$/YCVideoPlayerLib/YCVideoPlayerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yangchong-YCVideoPlayer-master-YCVideoPlayer.iml" filepath="$PROJECT_DIR$/yangchong-YCVideoPlayer-master-YCVideoPlayer.iml" />
+    </modules>
+  </component>
+</project>
